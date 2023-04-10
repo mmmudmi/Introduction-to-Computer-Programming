@@ -1,0 +1,55 @@
+# Assignment 01, Task 03
+# Name: Pearploy Chaicharoensin
+# Collaborators: -
+# Time Spent: 00:45 hrs
+
+Part I
+
+width = 20
+height = 9.0
+
+1. width/3  
+     type: float  outcome: 6.67
+2. width/2.0  
+     type: float  outcome: 10.0
+3. height//3  
+     type: float  outcome: 3.0
+4. height//3.0  
+     type: float  outcome: 3.0
+5. height*width/2  
+     type: float  outcome: 90.0
+6. width/2*height 
+     type: float  outcome: 90.0
+7. 3 + 4 * 5  
+     type: int    outcome: 23
+8. 3//4 + 4*5  
+     type: int    outcome: 20
+9. 3/4 + 4 * 5  
+     type: float  outcome: 20.75
+10. 3/4.0 + 4 * 5  
+     type: float  outcome: 20.75
+
+
+Part II
+
+1 c=6
+2 e=4
+3 d=e**2
+4 a=d+e
+5 C=a//2
+6 a=C+a
+7 b=(a+c+d+e)/4
+8 e=a+b*C/d%e
+9 c=c+(a-b)*e
+
+
+1. What is the type and the value of a right after line4?
+      type: int   value: 20
+2. What is the type and the value of c right after line5?
+      type: int   value: 6
+3. What is the type and the value of a right after line6?
+      type: int   value: 30
+4. What is the type and the value of e right after line8?
+      type: float   value: 30.75 
+5. What is the type and the value of c right after line9?
+      type: float   value: 498.0

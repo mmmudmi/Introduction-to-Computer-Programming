@@ -1,0 +1,20 @@
+# Assignment 03, Task 04
+# Name: Pearploy Chaicharoensin
+# Collaborators: -
+# Time Spent: 00:25 hrs
+
+1. bdbaac 
+b(),d(),a(),c()
+
+2. aacbba 
+a(),c(),b(),b(),a()
+
+3. dbabac
+d(),a(),b(),c()
+
+4. cbaedb
+impossible
+ 
+5. acedba
+e(),b(),a()
+

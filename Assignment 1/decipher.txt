@@ -1,0 +1,23 @@
+# Assignment 01, Task 04
+# Name: Pearploy Chaicharoensin
+# Collaborators: -
+# Time Spent: 00:36 hrs
+
+Program I: Find all settings of x and y of type bool that will cause this code to print True.
+x = False
+y = True
+print (not x or y)
+   
+x = True
+y = True
+print (not x or y)
+
+x = False
+y = False
+print (not x or y)
+
+
+Program II: Find the smallest integer x such that the following code will print True.
+
+x = 50
+print (x >= 40 and (x%20)//10 == 1)
